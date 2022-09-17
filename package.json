@@ -1,0 +1,11 @@
+{
+  "name": "@angeldesweb/test-mono",
+  "version": "0.0.1",
+  "description": "Just a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
